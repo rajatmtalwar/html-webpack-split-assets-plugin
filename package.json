@@ -20,7 +20,7 @@
     "body"
   ],
   "author": "Rajat Talwar",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rajatmtalwar/html-webpack-split-assets-plugin/issues"
   },
