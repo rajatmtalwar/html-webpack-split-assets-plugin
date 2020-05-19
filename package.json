@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-split-assets-plugin",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "This webpack plugin splits the head and body assets in two different files. These files can be consumed by backend templates like JSPs.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,9 @@
     "split",
     "assets",
     "head",
-    "body"
+    "body",
+    "create-react-app",
+    "react-app-rewired"
   ],
   "author": "Rajat Talwar",
   "license": "MIT",
