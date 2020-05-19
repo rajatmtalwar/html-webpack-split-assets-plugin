@@ -1,5 +1,5 @@
 class HTMLWebpackSplitAssetsPlugin {
-  constructor(htmlWebpackPlugin, assetFiles) {
+  constructor(htmlWebpackPlugin, assetFiles = {}) {
     this.htmlWebpackPlugin = htmlWebpackPlugin;
     this.assetFiles = {
       headAssets: assetFiles.headAssets || "headAssets.jsp",
